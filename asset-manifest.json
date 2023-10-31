@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maat/static/css/main.51f6ac11.css",
+    "main.js": "/maat/static/js/main.8ef2cbd8.js",
+    "static/js/787.1acd3aa7.chunk.js": "/maat/static/js/787.1acd3aa7.chunk.js",
+    "index.html": "/maat/index.html",
+    "main.51f6ac11.css.map": "/maat/static/css/main.51f6ac11.css.map",
+    "main.8ef2cbd8.js.map": "/maat/static/js/main.8ef2cbd8.js.map",
+    "787.1acd3aa7.chunk.js.map": "/maat/static/js/787.1acd3aa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f6ac11.css",
+    "static/js/main.8ef2cbd8.js"
+  ]
+}
