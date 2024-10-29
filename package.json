@@ -5,7 +5,7 @@
   "homepage": "https://pnupu.github.io/maat",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.2",
-    "@testing-library/react": "^13.4.0",
+    "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.60",
